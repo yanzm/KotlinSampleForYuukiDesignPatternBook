@@ -1,0 +1,14 @@
+# for gradle, IDEA
+.gradle
+out/
+*.iml
+!.idea/runConfigurations/*
+.idea/*.xml
+.idea/.name
+.idea/copyright/
+.idea/libraries/
+.idea/scopes/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/caches/build_file_checksums.ser
+.idea/codeStyles/Project.xml
